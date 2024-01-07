@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 07 Jan 2024 02:37:16 at http://www.rummykinggames.com/?gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yYqDypc4TmH-OFuK-0JdCjVdpeplDIAoQLKyNpksX9wrx27-k-sxPIaAjTAEALw_wcB +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://www.rummykinggames.com/?gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yYqDypc4TmH-OFuK-0JdCjVdpeplDIAoQLKyNpksX9wrx27-k-sxPIaAjTAEALw_wcB -O1 "C:\PerfLogs\rummyadda" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:37:46	Warning: 	Retry after error -4 (No data (connection closed)) at link www.rummykinggames.com/images/static/images/plusgame/img15.png (from www.rummykinggames.com/?gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yYqDypc4TmH-OFuK-0JdCjVdpeplDIAoQLKyNpksX9wrx27-k-sxPIaAjTAEALw_wcB)
+02:37:46	Warning: 	Retry after error -4 (No data (connection closed)) at link www.rummykinggames.com/policy/terms.html (from www.rummykinggames.com/?gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yYqDypc4TmH-OFuK-0JdCjVdpeplDIAoQLKyNpksX9wrx27-k-sxPIaAjTAEALw_wcB)
+02:37:47	Warning: 	Retry after error -4 (No data (connection closed)) at link www.rummykinggames.com/images/static/js/plusgame/flexible.js (from www.rummykinggames.com/?gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yYqDypc4TmH-OFuK-0JdCjVdpeplDIAoQLKyNpksX9wrx27-k-sxPIaAjTAEALw_wcB)
+02:37:50	Error: 	"Not Found" (404) at link www.rummykinggames.com/images/download_joy/download_app.png (from www.rummykinggames.com/policy/css/style.min.css)
+02:37:50	Error: 	"Not Found" (404) at link www.rummykinggames.com/images/download_joy/d2.png (from www.rummykinggames.com/policy/css/style.min.css)
+02:37:50	Error: 	"Not Found" (404) at link www.rummykinggames.com/images/download_joy/d1.png (from www.rummykinggames.com/policy/css/style.min.css)
+02:37:50	Error: 	"Not Found" (404) at link www.rummykinggames.com/images/download_joy/side.jpg (from www.rummykinggames.com/policy/css/style.min.css)
+02:37:50	Error: 	"Not Found" (404) at link www.rummykinggames.com/images/download_joy/background.jpg (from www.rummykinggames.com/policy/css/style.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 57 links scanned, 47 files written (1045165 bytes overall) [856105 bytes received at 25179 bytes/sec], 304507 bytes transferred using HTTP compression in 10 files, ratio 28%, 5.1 requests per connection
+(5 errors, 3 warnings, 0 messages)
